@@ -1,0 +1,22 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "name": "Meeting",
+      "description": "work",
+      "priority": false
+    },
+    {
+      "id": "2",
+      "name": "Nap",
+      "description": "rest",
+      "priority": true
+    },
+    {
+      "id": "3",
+      "name": "Study",
+      "description": "learn",
+      "priority": true
+    }
+  ]
+}
